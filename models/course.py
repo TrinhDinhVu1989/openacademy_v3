@@ -3,6 +3,7 @@ from odoo import api, exceptions, fields, models
 
 
 class Course(models.Model):
+    #dfsdlkfdsfklsdfsldf
     _name = 'openacademy.course'
     _description = 'Course'
 
